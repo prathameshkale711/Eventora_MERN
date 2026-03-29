@@ -107,4 +107,4 @@ I have included an export file named `Eventora_Postman_Collection.json` in the r
    - Run **Confirm Booking (Admin - Paid)** to finalize the order, deduct a seat, and trigger a confirmation email.
    - Or test **Cancel/Reject Booking (Admin/User)**.
 
-You're done! The full user to admin pipeline is ready to be tested both on the frontend React App and in Postman.
+You're done! The full user to admin pipeline is ready to be tested both on the frontend React App and in Postmans.

@@ -306,7 +306,7 @@
                     }
                 },
                 {
-                    "name": "Verify & Request Booking (Paid/Free Event)",
+                    "name": "Verify & Request Bookings (Paid/Free Event)",
                     "event": [
                         {
                             "listen": "test",
