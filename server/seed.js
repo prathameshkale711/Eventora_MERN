@@ -8,7 +8,7 @@ const Booking = require('./models/Booking');
 dotenv.config();
 
 const users = [
-    { name: 'Admin User', email: 'admin@eventora.com', password: 'password123', role: 'admin' },
+    { name: 'Admin User', email: 'kaleprathmesh440@gmail.com', password: 'Prathamesh@211', role: 'admin' },
     { name: 'Demo User', email: 'user@eventora.com', password: 'password123', role: 'user' },
     { name: 'Alice Smith', email: 'alice@eventora.com', password: 'password123', role: 'user' },
     { name: 'Bob Johnson', email: 'bob@eventora.com', password: 'password123', role: 'user' },
